@@ -26,7 +26,7 @@ The Coroner runs six procedures on every incident:
 Add `SKILL.md` to your project's `.claude/` directory, or paste the contents into your Claude system prompt.
 
 ```bash
-curl -O https://raw.githubusercontent.com/themeridianlab/the-coroner/main/SKILL.md
+curl -O https://raw.githubusercontent.com/mattmayberry/the-coroner/main/SKILL.md
 ```
 
 ---
@@ -106,6 +106,12 @@ The Coroner stops and alerts you immediately if:
 - Analysis is only as complete as the logs and deployment records you provide
 - Does not have independent access to production systems
 - Blameless by design: identifies decisions and processes, not individuals
+
+---
+
+## Want More?
+
+This free skill is a sample of the full **[The Coroner: Full Program Edition](https://www.shopclawmart.com/listings/f19291ef-b75d-4a64-aa4f-57f4ed3de12c)** ($49 on ClawMart) — adds a persistent incident case log, cross-incident pattern detection that flags when you're having the same failure twice, integration with The Architect's deploy checklist so action items become prevention steps, and Greyline: Warden integration for security-relevant findings.
 
 ---
 
